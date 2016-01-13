@@ -2,7 +2,6 @@ name: taco cat
 favicon: null
 layout_spectrum: 0.9445446627214551
 typography_spectrum: 0.7203973967116326
-title: taco cat
 cta:
   domain: null
   bucket: null
