@@ -1,0 +1,29 @@
+name: taco cat
+favicon: null
+layout_spectrum: 0.9445446627214551
+typography_spectrum: 0.7203973967116326
+title: taco cat
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8162653895560652
+  lightness: 0.6040314638521522
+  saturation: 0.4697876377031207
+  rhythmicContrast: 0.5971905556507409
+purpose: []
